@@ -1,6 +1,15 @@
-# RubyScore smart contracts v1
+## Rubyscore Smart Contracts for zkSync network
 
-This repo will have a code of RubyScore Smart Contracts.
+This repo will have a code of Rubyscore Smart Contracts for zkSync.
+
+## Deployed Contract Addresses
+
+### Contracts
+
+| Name | Mainnet  | Testnet                                               |
+| ---- |----------|-------------------------------------------------------|
+| Rubyscore_Achievement | 0x8A1142620CbdE2f2d63E88F35D0D76eAAce0AC9e | 0xDA0F79DB2F00e93aBE1AB6FfA51bbd9043605917   |
+| Rubyscore_Vote | 0xCb84d512F0C9943D3BC6B4Be8801aC8Aa6621a54 |                         |
 
 ## Setting project
 
